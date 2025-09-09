@@ -67,7 +67,7 @@
         <a href="clienti.php">Clienti</a>
       </div>
     </div>
-          <a><strong>Benvenuto!</strong></a>
+          <a href="logout.php"><strong>LOGOUT</strong></a>
   </div>
 </div>
 
