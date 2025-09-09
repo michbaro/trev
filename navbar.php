@@ -48,6 +48,8 @@
   }
   .dropdown.open .dropdown-menu{display:flex}
   .hamburger{display:block}
+
+  
 }
 </style>
 
@@ -80,3 +82,5 @@ const navToggle=document.getElementById('nav-toggle');
 const navMenu=document.getElementById('nav-menu');
 navToggle.addEventListener('click',()=> navMenu.style.display=navMenu.style.display==='flex'?'none':'flex');
 </script>
+
+<?php include 'footer.php'?>
