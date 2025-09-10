@@ -19,5 +19,5 @@
 </style>
 
 <div class="footer-fixed">
-  © 2025 Biosound - P. IVA: 02653780698 — Sede: Corso Umberto I, 5 - San Salvo (CH)
+  © 2025 Biosound - P. IVA: 02653780698 — Sede: Corso Umberto I, 5 - San Salvo (CH) E-mail: formazione@biosound.it
 </div>
